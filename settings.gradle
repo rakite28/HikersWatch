@@ -1,0 +1,2 @@
+rootProject.name = "Hikers Watch"
+include ':app'
